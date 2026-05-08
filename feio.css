@@ -1,0 +1,84 @@
+/*body*/
+body{margin: 500px;
+    color:rgba(8, 83, 223, 0.288);
+    font-size:xx-small;
+    background-color: rgb(2, 241, 34);
+}
+section {
+border-radius: 100px;
+padding-left: 100px;
+margin: 100px;
+border-bottom-left-radius: 100px;
+}
+tr {
+border-color: blueviolet;
+border: 100px
+}
+form{
+font-display:initial;
+}
+footer{
+    background-color: rgba(72, 5, 255, 0.993);
+    color:rgb(125, 8, 235) ;
+    padding: 10px;
+}
+button {
+    background-color: rgb(238, 5, 5);
+    color:rgba(223, 10, 152, 0.959);
+    padding: 100px;
+    border: solid rgb(133, 2, 255);
+    border-radius: 500px;
+    cursor:pointer;
+}
+table {
+    width: 50%;
+    border-collapse:inherit ;
+}
+nav{
+    margin-top: 10px;
+}
+ 
+nav a{
+    color:rgba(0, 0, 0, 0.253);
+    text-decoration:double  ;
+    margin: 100px
+}
+ul,ol {
+    padding-left: 30px;
+ 
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+ 
+}
+tr,td {
+    border: solid rgb(252, 0, 0) 1px;
+    padding: 100px;
+    text-align:right;
+ 
+}
+ 
+th {
+    background-color: rgb(50, 6, 77);
+    color: black;
+ 
+}
+ form {
+    display: block;
+}
+ 
+input,textarea {
+    color: black;
+    width:1000%;
+    padding: 50px;
+    border: solid rgb(0, 0, 0);
+    border-radius: 5000px;
+}
+header{
+    background-color: rgb(5, 5, 5);
+    color: rgba(241, 0, 0, 0.123);
+    padding: 200px;
+    text-align:right;
+ 
+}
